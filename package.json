@@ -1,0 +1,21 @@
+{
+  "name": "Teste-Tractian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "cors": "^2.8.5",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-mongoose": "^2.0.0",
+    "koa-morgan": "^1.0.1",
+    "koa-router": "^10.0.0",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^5.10.14",
+    "nodemon": "^2.0.6"
+  }
+}
