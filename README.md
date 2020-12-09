@@ -1,2 +1,2 @@
 # Teste-Tractian-Backend
-App with koa/node
+App built with koa/node/mongoose
