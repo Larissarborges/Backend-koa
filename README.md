@@ -1,4 +1,4 @@
-# Backend build with Node
+# Backend built with Node, Koa and Mongoose
 
 Instruções para execução
 Primeiro será necessário instalar as dependências. Execute o comando:
